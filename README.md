@@ -1,4 +1,4 @@
-# Snakemake issue 1184 minimla example
+# Snakemake issue 1184 minimal example
 
 https://bitbucket.org/snakemake/snakemake/issues/1184/
 
