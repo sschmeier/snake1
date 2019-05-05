@@ -1,3 +1,7 @@
+# Snakemake issue 1184 minimla example
+
+https://bitbucket.org/snakemake/snakemake/issues/1184/
+
 ```bash
 snakemake --version
 5.4.5
