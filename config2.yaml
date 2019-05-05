@@ -1,0 +1,6 @@
+samples: samples2.tsv
+
+contrasts:
+    METS2-vs-PRIMARY2:
+      - METS2
+      - PRIMARY2
